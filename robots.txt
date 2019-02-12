@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheirohc.red.gd/sitemap.xml
